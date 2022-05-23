@@ -1,6 +1,6 @@
 ### Oieee, tudo bem ? 👋
 
-Primeiramente, estou muito feliz que você esteja aqui ! Antes de tudo, deixe eu me apressentar...
+😃 Primeiramente, estou muito feliz que você esteja aqui ! Antes de tudo, deixe eu me apressentar...
 
 Me chamo Sofia, sou apaixonada por tecnologia desde sempre, infelizmente nunca recebi apoio da minha família para ingressar nesta aréa, mas resolvi no começo de 2022 que iria trilhar o meu próprio caminho. 
 Atualmente venho trabalhando na construção de projetos para exercitar minha habilidades e estudo ciência da computação na Faculdade Descomplica.
@@ -13,12 +13,12 @@ Meus projetos atualmente envolvem as tecnologias:
 * Java Script
 * Bootstrap
 
-Estou estudando: 
+📚 Estou estudando: 
 * Node.js
 * React.js
 * Docker
 
-Minhas Soft Skills
+⚔️ Minhas Soft Skills
 
 * Aprendizado constante;
 * Boa habilidade de trabalho em equipe;
@@ -27,8 +27,8 @@ Minhas Soft Skills
 * Metodologias Ágeis, principalmente Scrum.
 
 Meus contatos:
-* tenoteno2017@gmail.com
-* (81)996859295
+* 📧 tenoteno2017@gmail.com
+* 📞 (81)996859295
 
 
 
