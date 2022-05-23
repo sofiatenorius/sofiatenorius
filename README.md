@@ -26,5 +26,9 @@ Minhas Soft Skills
 * Boa organização e gerenciamento;
 * Metodologias Ágeis, principalmente Scrum.
 
+Meus contatos:
+* tenoteno2017@gmail.com
+* (81)996859295
+
 
 
