@@ -19,7 +19,7 @@ Meus projetos atualmente envolvem as tecnologias:
 * React.js
 
 
-⚔️ Minhas Soft Skills
+⚔️ ###  Minhas Soft Skills
 
 * Aprendizado constante;
 * Boa habilidade de trabalho em equipe;
@@ -31,6 +31,13 @@ Meus contatos:
 * 📧 tenoteno2017@gmail.com
 * 📞 (81)996859295
 
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio
+
+- 🤝 Contribuir em projetos open-source
+
+- 📈 Conseguir experiência na área
 <div align="left">
   <a href="https://github.com/sofiatenorius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiatenorius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
