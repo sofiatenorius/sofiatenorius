@@ -50,7 +50,7 @@ tecnologias
 
 </div>
 <br>
-<p>🧠 <spam style="font-style:italic">"Seja você mesmo, todos os outros já existem."</spam></p>
+<p>🧠 <spam style="font-style:italic">"Curta o processo !"</spam></p>
 
 
 <div align="left">
