@@ -13,17 +13,18 @@ Busco constantemente estudar, praticar e me atualizar.
 
 
 ### ⚡ Tecnologias:
-tecnologias 
+
 
 * HTML
-* CSS
-* Java Script
+* CSS3
+* JavaScript
 * Bootstrap
 
 
 ### 📚 Estou estudando: 
 * Node.js
 * React.js
+* Banco de Dados
 
 
 <div align="left">
