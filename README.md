@@ -5,7 +5,7 @@
 
 ### 🌻 Sobre mim:
 
-Me chamo Sofia, sou apaixonada por tecnologia desde sempre, apesar de muitos familiares não enxergar a aréa como uma boa oportunidade para mim, resolvi no começo de 2022 que iria trilhar o meu próprio caminho no mundo da programção. 
+Me chamo Sofia, sou apaixonada por tecnologia desde sempre, resolvi no começo de 2022 que iria trilhar o meu próprio caminho no mundo da programção. 
 
 Atualmente venho trabalhando na construção de projetos para exercitar minha habilidades e estudo ciência da computação na Faculdade Descomplica.
 
