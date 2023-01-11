@@ -19,12 +19,15 @@ Busco constantemente estudar, praticar e me atualizar.
 * CSS3
 * JavaScript
 * Bootstrap
+* React.js
+* Node.js
+* Docker
+
 
 
 ### 📚 Estou estudando: 
-* Node.js
-* React.js
 * Banco de Dados
+* Java
 
 
 <div align="left">
