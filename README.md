@@ -22,6 +22,8 @@ Busco constantemente estudar, praticar e me atualizar.
 * React.js
 * Node.js
 * Docker
+*Scss
+*Typescript
 
 
 
@@ -45,13 +47,12 @@ Busco constantemente estudar, praticar e me atualizar.
 * Boa organização e gerenciamento;
 * Metodologias Ágeis, principalmente Scrum.
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Expandir meu portfólio
 
 - 🤝 Melhorar minhas softskills
 
-- 📈 Conseguir experiência na área
 
 
 <div>
