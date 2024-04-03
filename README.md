@@ -7,7 +7,7 @@
 
 Me chamo Sofia, sou apaixonada por tecnologia desde sempre, resolvi no começo de 2022 que iria trilhar o meu próprio caminho no mundo da programção. 
 
-Atualmente venho trabalhando na construção de projetos para exercitar minha habilidades e estudo ciência da computação na Faculdade Descomplica.
+Atualmente venho trabalhando na construção de projetos para exercitar minha habilidades e estudo ciência da Análise de Sistemas na Faculdade Descomplica.
 
 Busco constantemente estudar, praticar e me atualizar.
 
@@ -22,8 +22,11 @@ Busco constantemente estudar, praticar e me atualizar.
 * React.js
 * Node.js
 * Docker
-*Scss
-*Typescript
+* Scss
+* Typescript
+* Angularjs
+* Angular 2
+* jeste/jasmine
 
 
 
