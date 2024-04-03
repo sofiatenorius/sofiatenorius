@@ -26,7 +26,7 @@ Busco constantemente estudar, praticar e me atualizar.
 * Typescript
 * Angularjs
 * Angular 2
-* jeste/jasmine
+* Jest/jasmine
 
 
 
@@ -50,11 +50,6 @@ Busco constantemente estudar, praticar e me atualizar.
 * Boa organização e gerenciamento;
 * Metodologias Ágeis, principalmente Scrum.
 
-### 📊 Metas 2023:
-
-- 📂 Expandir meu portfólio
-
-- 🤝 Melhorar minhas softskills
 
 
 
@@ -65,6 +60,5 @@ Busco constantemente estudar, praticar e me atualizar.
 
 </div>
 <br>
-<p>🧠 <spam style="font-style:italic">"Curta o processo !"</spam></p>
 
 
